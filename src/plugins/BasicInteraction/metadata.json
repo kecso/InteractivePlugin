@@ -1,0 +1,16 @@
+{
+  "id": "BasicInteraction",
+  "name": "BasicInteraction",
+  "version": "0.1.0",
+  "description": "Basic example of two-way plugin user communication during runtime",
+  "icon": {
+    "class": "glyphicon glyphicon-cog",
+    "src": ""
+  },
+  "configWidget": "plugin/BasicInteraction/BasicInteraction/communication.js",
+  "disableServerSideExecution": false,
+  "disableBrowserSideExecution": true,
+  "dependencies": [],
+  "writeAccessRequired": false,
+  "configStructure": []
+}

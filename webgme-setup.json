@@ -1,0 +1,13 @@
+{
+  "components": {
+    "plugins": {
+      "BasicInteraction": {
+        "src": "src/plugins/BasicInteraction",
+        "test": "test/plugins/BasicInteraction"
+      }
+    }
+  },
+  "dependencies": {
+    "plugins": {}
+  }
+}
